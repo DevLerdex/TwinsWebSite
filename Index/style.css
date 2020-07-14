@@ -1,3 +1,6 @@
+body{
+  margin: 0px;
+}
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
@@ -35,7 +38,7 @@
 
   #divnv2{
     background-color: rgb(255, 255, 255);
-    width: 15%;
+    width: 25%;
     height: 100%;
     align-items: center;
   }
