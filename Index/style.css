@@ -25,3 +25,60 @@
     background-color: #fd0404;
     color: white;
   }
+
+  #nv2{
+    background-color: black;
+    width: 100%;
+    height: 105px;
+    display: flex;
+  }
+
+  #divnv2{
+    background-color: rgb(255, 255, 255);
+    width: 15%;
+    height: 100%;
+    align-items: center;
+  }
+
+  #banner{
+    border: 1px solid black;
+    width: 100%;
+    height: 100px;
+    display: flex;
+  }
+
+  #middle-bar-div1{
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+  }
+
+  #middle-bar-div2{
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+  }
+
+  #middle-bar-div3{
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+  }
+
+  #middle-bar-div4{
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+  }
+
+  #middle-bar-div5{
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+  }
+
+  #middle-bar-div6{
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+  }
